@@ -6,6 +6,7 @@ xcat-dep包中，并不包含针对KylinV10SP3的支持，重新编译xcat-dep�
 安装：
 
 先解压 xcat-core-2.17.0-linux.tar.bz2，并添加安装源
+
 tar xjvf xcat-core-2.17.0-linux.tar.bz2
 
 cd xcat-core
