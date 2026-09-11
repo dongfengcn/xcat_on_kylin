@@ -1,6 +1,6 @@
 # xcat_on_kylin
 
-**xCAT(Extreme Cloud Administration Toolkit)** 是一个开源的集群管理软件，但xcat-dep包中，并不包含针对KylinV10SP3的支持，重新编译xcat-dep的源码，让 xCAT 支持 Kylin OS
+**xCAT(Extreme Cloud Administration Toolkit)** 是一个开源的集群管理软件，但xcat-dep包中，并不包含针对KylinV10SP3的支持，重新编译xcat-dep的源码，让 xCAT 支持 Kylin V10 SP3 作为管理节点，并且分发 Kylin V10 SP3 的操作系统。
 
 当前，只支持 xcat 2.17.0 版本。
 
