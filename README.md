@@ -14,10 +14,10 @@ cd xcat-core
 ./mklocalrepo.sh
 ```
 
-不需要xcat-dep-2.17.0-linux.tar.bz2，直接下载 xcat-dep-kylin10.3-all.tar.gz，然后解压，并添加安装源
+不需要xcat-dep-2.17.0-linux.tar.bz2，直接下载 xcat-dep-2.17.0-kylin10.3-all.tar.gz，然后解压，并添加安装源
 
 ```
-tar xzvf xcat-dep-kylin10.3-all.tar.gz
+tar xzvf xcat-dep-2.17.0-kylin10.3-all.tar.gz
 cd xcat-dep-kylin10.3
 ./mklocalrepo.sh
 ```
