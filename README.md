@@ -47,3 +47,18 @@ lsdef -t osimage
 kylin10.3-x86_64-install-compute  (osimage)
 ```
 
+```
+lsdef -t osimage kylin10.3-x86_64-install-compute
+Object name: kylin10.3-x86_64-install-compute
+    imagetype=linux
+    osarch=x86_64
+    osdistroname=kylin10.3-x86_64
+    osname=Linux
+    osvers=kylin10.3
+    otherpkgdir=/install/post/otherpkgs/kylin10.3/x86_64
+    pkgdir=/install/kylin10.3/x86_64
+    pkglist=/opt/xcat/share/xcat/install/kylin/compute.kylin10.pkglist
+    profile=compute
+    provmethod=install
+    template=/opt/xcat/share/xcat/install/kylin/compute.kylin10.tmpl
+```
